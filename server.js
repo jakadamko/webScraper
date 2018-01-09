@@ -15,7 +15,7 @@ var cheerio = require("cheerio");
 var Article = require("./models/Article.js");
 var Note = require("./models/Notes.js");
 
-var PORT = 3000;
+var port = process.env.PORT || 3000;
 
 // Initialize Express
 var app = express();
