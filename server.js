@@ -17,6 +17,8 @@ var Note = require("./models/Notes.js");
 
 var port = process.env.PORT || 3000;
 
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/webScraper";
+
 // Initialize Express
 var app = express();
 
