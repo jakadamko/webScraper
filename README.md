@@ -16,7 +16,7 @@ Whenever a user visits the site, the app scrapes stories from a news outlet from
 
      * Feel free to add more content to your database (photos, bylines, and so on).
 
-  2. Users are also be able to leave comments on the articles displayed and revisit them later. The comments are saved to the database as well and associated with their articles.
+Users are also be able to leave comments on the articles displayed and revisit them later. The comments are saved to the database as well and associated with their articles.
 
 
 ### Dependencies Used
